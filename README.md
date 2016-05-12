@@ -1,7 +1,6 @@
-# TypeScript-Handbook
+# TypeScript-Handbook edited
 
-[![Build Status](https://travis-ci.org/Microsoft/TypeScript-Handbook.svg)](https://travis-ci.org/Microsoft/TypeScript-Handbook)
+The TypeScript Handbook is a guide to the TypeScript language.  This is an edit
 
-The TypeScript Handbook is a comprehensive guide to the TypeScript language
+Please see the [Typescript website for the original](https://www.typescriptlang.org) for more details.
 
-Please see the [latest TypeScript Language Specification](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md) for more details.
