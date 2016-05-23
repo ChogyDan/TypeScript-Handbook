@@ -23,7 +23,7 @@ interface TypescriptProgrammer {
     constructor() {
 ```
         `basicTypes = {"Basic Types", `[pages/Basic Types.md](pages/Basic Types.md)}
-        [pages/Basic Types.md](pages/Basic Types.md)}
+[pages/Basic Types.md](pages/Basic Types.md)}
         
 
         
