@@ -22,7 +22,7 @@ interface TypescriptProgrammer {
     basicTypes: link;
     constructor() {
 ```
-        `basicTypes = {"Basic Types", `[pages/Basic Types.md](pages/Basic Types.md)}
+`    basicTypes = {"Basic Types", `[pages/Basic Types.md](pages/Basic Types.md)}
 [pages/Basic Types.md](pages/Basic Types.md)}
         
 

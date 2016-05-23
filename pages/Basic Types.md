@@ -2,7 +2,8 @@
 let aBoolean: boolean = true || false;
 let aNumber: number = 1234567890;
 let aString: string = "any string defined with single or double quotes";
-let aTemplateString: string = `a string can be defined with multiple lines and include ${expressions} using the backtick operator`;
+let aTemplateString: string = `a string can be defined with multiple lines 
+and include ${expressions} using the backtick operator`;
 let anArrayOfNumbers: number[] = [1,2,3];
 let anArrayOfAnything: any[] = [1, "1", 1, 1, "1"];
 let aTuple: [string, number] = ["string", 123];
